@@ -2,12 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: Abraham O. Alpuerto
+first_name: Abraham
+middle_name: O.
+last_name: Alpuerto
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Best way to reach me is via email.
+email: alpuea@rpi.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
