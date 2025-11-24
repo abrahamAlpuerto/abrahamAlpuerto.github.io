@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: alpuertoiiia@gmail.com
+subtitle: RPI M.S. Student
 
 profile:
   align: right
