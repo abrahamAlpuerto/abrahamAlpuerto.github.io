@@ -20,9 +20,10 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+++ 
 ---
 Hey, I am a Computer and Systems Engineering student at **Rensselaer Polytechnic Institute (RPI)**, currently transitioning into the accelerated Master's program for admit Spring 2026. My specialization is in applications of **Machine Learning** and **Engineering AI Systems**. I am particulary interested in **Agentic Workflows**, **Forcasting Systems**, **Computer Vision**, and the **Hardware-Software Integrations** applications of AI/ML.
 
