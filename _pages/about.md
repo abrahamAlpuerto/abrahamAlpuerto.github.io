@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: RPI M.S. Student
+subtitle: RPI M.S. Student Computer & Systems Engineering
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Bridgeport, NY</p>
+    <p>Home: Bridgeport, NY</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -23,7 +23,6 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-++ 
 ---
 Hey, I am a Computer and Systems Engineering student at **Rensselaer Polytechnic Institute (RPI)**, currently transitioning into the accelerated Master's program for admit Spring 2026. My specialization is in applications of **Machine Learning** and **Engineering AI Systems**. I am particulary interested in **Agentic Workflows**, **Forcasting Systems**, **Computer Vision**, and the **Hardware-Software Integrations** applications of AI/ML.
 
