@@ -53,6 +53,6 @@ linkedin_username: abraham-alpuerto
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: assets/img/myemoji.png
+  logo: assets/img/blackhole.png
   title: Custom Social
-  url: https://abrahamalpuerto.github.io/
+  # url: https://abrahamalpuerto.github.io/
