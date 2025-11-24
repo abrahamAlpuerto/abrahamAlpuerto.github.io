@@ -53,6 +53,13 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Verify assets copied
+        run: |
+          if [ ! -d "_site/assets" ]; then
+            echo "Assets directory not in _site, copying manually..."
+            cp -r assets _site/
+          fi
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
