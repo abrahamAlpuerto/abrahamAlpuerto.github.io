@@ -117,18 +117,26 @@
   ],
   "awards": [
     {
-      "title": "Award Title",
-      "date": "2023-11-01",
-      "awarder": "Organization Name",
-      "summary": "Description of the award..."
+      "title": "The Rensselaer Medal",
+      "date": "2023-05-01",
+      "awarder": "Rensselaer Polytechnic Institute",
+      "summary": "Premier merit scholarship ($160,000 value). Awarded to a top engineering student transferring from Mohawk Valley CC based on academic achievement."
     }
   ],
   "certificates": [
+{
+      "name": "Qiskit Global Summer School 2024 - Quantum Excellence",
+      "date": "2024-08-01",
+      "issuer": "IBM",
+      "url": "https://www.credly.com/badges/3282bbb9-0e23-4077-ae81-a36ad830c29e",
+      "summary": "Completed an intensive two-week curriculum on utility-scale quantum computing. Mastered Qiskit SDK v1.x, quantum circuit transpilation, and noise-model building through 4 graded laboratories."
+    },
     {
-      "name": "Certificate Name",
-      "date": "2021-01-01",
-      "issuer": "Issuer Name",
-      "url": "https://example.com"
+      "name": "IBM Quantum Challenge 2024 Achievement",
+      "date": "2024-06-01",
+      "issuer": "IBM",
+      "url": "https://www.credly.com/badges/b261f0e6-2fa7-4309-b1fd-ed00b9def0e5",
+      "summary": "Solved advanced coding challenges using Qiskit 1.0. Implemented Variational Quantum Classifiers (VQC), error mitigation strategies, and circuit knitting techniques for large-scale quantum processors."
     }
   ],
   "publications": [
@@ -177,7 +185,6 @@
       "keywords": [
         "Linux",
         "Git",
-        "Docker",
         "Flask",
         "MySQL",
         "PostgreSQL",
@@ -191,11 +198,6 @@
       "language": "English",
       "fluency": "Native/Fluent",
       "icon": ""
-    },
-    {
-      "language": "Language 2",
-      "fluency": "Fluency Level",
-      "icon": ""
     }
   ],
   "interests": [
@@ -208,12 +210,6 @@
         "Financial Engineering",
         "Computer Vision"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Reference Name",
-      "reference": "Reference text..."
     }
   ],
   "projects": [
