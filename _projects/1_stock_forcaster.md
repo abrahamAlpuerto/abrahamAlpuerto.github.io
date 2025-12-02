@@ -15,10 +15,10 @@ Working in a small team, we created a full-stack solution from raw data ingestio
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mlarchitecture.png" title="Data Pipeline" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mlpipeline.jpg" title="Data Pipeline" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mlarchitecture.png" title="LSTM Architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/modelarchitecture.jpg" title="LSTM Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
